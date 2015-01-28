@@ -2,7 +2,7 @@
 <addon
   id="repository.bbelectric"
   name="BBElectric Unofficial Add-ons Repository"
-  version="1.0.1"  provider-name="bbelectric">
+  version="1.0.0"  provider-name="bbelectric">
   <requires>
     <import addon="xbmc.addon" version="13.0.0"/>
   </requires>
