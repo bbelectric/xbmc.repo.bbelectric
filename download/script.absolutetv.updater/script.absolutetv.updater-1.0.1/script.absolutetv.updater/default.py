@@ -27,7 +27,7 @@ if (__name__ == "__main__" ):
         ######################################################
 
         #fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlUF96TXU2V1h5U3c/view?usp=sharing"
-        #filename = "1262015.zip"
+        #filename = "addons.zip"
         fileurl = "https://docs.google.com/uc?export=download&id="+re.search('https://drive.google.com/file/d/(.*)/', fileurl).group(1)
         log("URL :"+fileurl);
 
