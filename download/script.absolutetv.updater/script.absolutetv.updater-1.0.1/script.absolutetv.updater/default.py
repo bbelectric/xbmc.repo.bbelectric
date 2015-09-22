@@ -22,8 +22,8 @@ if (__name__ == "__main__" ):
         net=Net()
 
         #### lines should be modified when file is changed
-        fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlTTVnaWpfZ0pzRFU/view?usp=sharing"
-        filename = "1262015.zip"
+        fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlUF96TXU2V1h5U3c/view?usp=sharing"
+        filename = "addons.zip"
         ######################################################
 
         #fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlUF96TXU2V1h5U3c/view?usp=sharing"
