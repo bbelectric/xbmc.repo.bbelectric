@@ -22,12 +22,12 @@ if (__name__ == "__main__" ):
         net=Net()
 
         #### lines should be modified when file is changed
-        fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlYWQ5Z09TZFNuaVk/view?usp=sharing"
-        filename = "KODI.zip"
+        fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlNmY0T2lyMXB1V0U/view?usp=sharing"
+        filename = "JAN20.zip"
         ######################################################
 
-        #fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlYWQ5Z09TZFNuaVk/view?usp=sharing"
-        #filename = "KODI.zip"
+        #fileurl  = "https://drive.google.com/file/d/0B1Q9WJpTJdJlNmY0T2lyMXB1V0U/view?usp=sharing"
+        #filename = "JAN20.zip"
         fileurl = "https://docs.google.com/uc?export=download&id="+re.search('https://drive.google.com/file/d/(.*)/', fileurl).group(1)
         log("URL :"+fileurl);
 
